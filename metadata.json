@@ -33,5 +33,10 @@
         "number": "007",
         "title": "Check if a number is prime or not",
         "folder": "Question7"
+    },
+    {
+        "number": "008",
+        "title": "Factorial",
+        "folder": "Question8"
     }
 ]
