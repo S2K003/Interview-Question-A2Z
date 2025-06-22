@@ -15,6 +15,11 @@
         "folder": "Question11"
     },
     {
+        "number": "012",
+        "title": "Count frequency of each element in the array",
+        "folder": "Question12"
+    },
+    {
         "number": "002",
         "title": "Reverse Integer",
         "folder": "Question2"
