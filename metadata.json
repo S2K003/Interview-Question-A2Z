@@ -18,5 +18,10 @@
         "number": "004",
         "title": "GCD",
         "folder": "Question4"
+    },
+    {
+        "number": "005",
+        "title": "Armstrong Numbers",
+        "folder": "Question5"
     }
 ]
