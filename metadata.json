@@ -1,7 +1,12 @@
 [
     {
         "number": "001",
-        "title": "b",
+        "title": "Count digits in a number",
         "folder": "Question1"
+    },
+    {
+        "number": "002",
+        "title": "Reverse Integer",
+        "folder": "Question2"
     }
 ]
