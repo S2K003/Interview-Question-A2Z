@@ -38,5 +38,10 @@
         "number": "008",
         "title": "Factorial",
         "folder": "Question8"
+    },
+    {
+        "number": "009",
+        "title": "Reverse an array",
+        "folder": "Question9"
     }
 ]
