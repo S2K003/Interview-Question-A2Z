@@ -28,5 +28,10 @@
         "number": "006",
         "title": "Print all Divisors of a given Number",
         "folder": "Question6"
+    },
+    {
+        "number": "007",
+        "title": "Check if a number is prime or not",
+        "folder": "Question7"
     }
 ]
