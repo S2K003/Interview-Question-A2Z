@@ -5,6 +5,11 @@
         "folder": "Question1"
     },
     {
+        "number": "010",
+        "title": "Valid Palindrome",
+        "folder": "Question10"
+    },
+    {
         "number": "002",
         "title": "Reverse Integer",
         "folder": "Question2"
