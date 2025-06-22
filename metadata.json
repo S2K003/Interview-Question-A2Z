@@ -8,5 +8,10 @@
         "number": "002",
         "title": "Reverse Integer",
         "folder": "Question2"
+    },
+    {
+        "number": "003",
+        "title": "Palindrome Number",
+        "folder": "Question3"
     }
 ]
