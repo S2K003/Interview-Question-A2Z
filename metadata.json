@@ -20,6 +20,11 @@
         "folder": "Question12"
     },
     {
+        "number": "013",
+        "title": "Frequency of the Most Frequent Element",
+        "folder": "Question13"
+    },
+    {
         "number": "002",
         "title": "Reverse Integer",
         "folder": "Question2"
