@@ -2,7 +2,7 @@
 setlocal
 
 REM === Set your GitHub repo URL below ===
-set "REPO_URL=https://github.com/YOUR_USERNAME/YOUR_REPO.git"
+set "REPO_URL=https://github.com/S2K003/Interview-Question-A2Z"
 
 REM Initialize Git and push
 git init
